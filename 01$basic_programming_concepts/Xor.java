@@ -1,5 +1,5 @@
 import edu.princeton.cs.algs4.StdOut;
-public class xor{
+public class Xor{
     public static void main(String[] args){
         boolean a = Boolean.parseBoolean(args[0]),
                 b = Boolean.parseBoolean(args[1]);
