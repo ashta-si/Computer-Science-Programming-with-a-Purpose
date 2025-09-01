@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="hello" type="Java Scratch" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false">
-    <option name="MAIN_CLASS_NAME" value="RandomInt" />
+    <option name="MAIN_CLASS_NAME" value="RandomWalker" />
     <module name="Computer-Science-Programming-with-a-Purpose" />
-    <option name="PROGRAM_PARAMETERS" value="2000" />
-    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/01$basic_programming_concepts/RandomInt.java" />
+    <option name="PROGRAM_PARAMETERS" value="5 1000000" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/02$conditional_and_loops/loops/RandomWalker.java" />
     <shortenClasspath name="NONE" />
     <method v="2">
       <option name="Make" enabled="true" />
